@@ -1,5 +1,7 @@
 package com.generation.f20220530;
 
+import com.generation.f20220531.Cliente;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -56,4 +58,5 @@ public class Main {
         //Imprime los toString de cada objeto
 
     }
+
 }
